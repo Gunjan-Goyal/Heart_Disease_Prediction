@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Heart Disease Prediction"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "71ad3509-506d-4d65-a16a-153fa57403b2"
+  }
+}
